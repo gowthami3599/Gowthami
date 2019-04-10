@@ -1,0 +1,2 @@
+# Gowthami
+The Asset Management Project (AMP) is web based application developed using any Web Technologies. The application is aimed to manage the assets of the student andfaculty in our university. Based on the type of user it provides various required functionalities for Admin,Students, Managers and Support team. It facilitates Request, Approval, Dispatch and Transfer of Assets among employees.
